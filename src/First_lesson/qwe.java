@@ -21,6 +21,7 @@ public class qwe {
                 }
             }
         }
+        
 
         for(int i = 0; i < mas.length; i++) {
             for(int j = 0; j < mas[i].length; i++) {
